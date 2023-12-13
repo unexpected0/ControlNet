@@ -1,4 +1,4 @@
-![image](https://github.com/unexpected0/ControlNet/assets/92572887/f5ca271e-4fad-480a-adbf-9fda323a5071)![image](https://github.com/unexpected0/ControlNet/assets/92572887/c604944f-dd9c-4ce3-9567-f793917a770e)# ControlNet
+ControlNet
 基于ControlNet与Stable Diffusion的参考上色模型
 
 在许多计算机视觉任务中，将黑白图像上色是一个具有挑战性但又非常有趣的问题。为了解决这个问题，我们借鉴了《Adding conditional control to text-to-image diffusion models》的思想，该工作通过引入条件控制来提高图像生成模型的灵活性和性能。我们希望能够利用参考彩色图像的信息，通过扩散模型为黑白图像添加真实感的颜色。
